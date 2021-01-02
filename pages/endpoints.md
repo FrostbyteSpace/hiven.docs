@@ -1,12 +1,10 @@
 ## <-- [Back](../README.md) <!-- omit in toc -->
 
-# Endpoints
+# Endpoints <!-- omit in toc -->
 This is a list of all endpoints you can send requests to.
 
 ## NAV
 
-- [Endpoints](#endpoints)
-  - [NAV](#nav)
 - [Houses](#houses)
   - [Categories](#categories)
   - [Invites](#invites)
